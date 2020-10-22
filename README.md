@@ -28,7 +28,7 @@ Please make sure you do not copy a single line of code from any source.  Not fro
 
 ## Get Started
 
-As mentioned, we provide a starting framework to help you design your predictors. The source code (including some traces for testing) is in github and you can get it with `git clone https://github.com/xiszishu/BranchPredictorProject240A.git`.
+As mentioned, we provide a starting framework to help you design your predictors. The source code (including some traces for testing) is in github and you can get it with `git clone https://github.com/skinzer/CSE240A.git`.
 
 Alternatively, you can download it from [our github page](https://github.com/xiszishu/BranchPredictorProject240A.git).
 
@@ -204,7 +204,7 @@ For each predictor (gshare:13, tournament:9:10:10 and your custom predictor), we
 
 ## Turn-in instructions
 
-**DUE: Nov 16 2018 - Submissions after 11:59:59 PM are considered late**
+**DUE: Nov 23 2020 - Submissions after 11:59:59 PM are considered late**
 
  A project is considered late at 12:00:01 AM (Which is 1 second past Midnight).
 
